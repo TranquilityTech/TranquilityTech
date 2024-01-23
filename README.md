@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=TranquilityTech&theme=whatsapp-dark&hide_border=true&border_radius=10&card_width=500)](https://git.io/streak-stats)
+
 <!--
 **TranquilityTech/TranquilityTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
