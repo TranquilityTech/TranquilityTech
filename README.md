@@ -1,6 +1,6 @@
 <h3 align="center">Make everything as simple as possible</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TranquilityTech&theme=whatsapp-dark&hide_border=true&border_radius=10&card_width=1000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tranquilitytech&theme=whatsapp-dark&hide_border=true&border_radius=10&card_width=1200)](https://www.tranquility.tech)
 
 <!--
 **TranquilityTech/TranquilityTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
