@@ -5,4 +5,4 @@
 
 #### Tranquility is Ta-Yi Cheng's main project and this account is only for [tranquility.tech](https://www.tranquility.tech/) related.
 
-#### If you are interested in my site project or practices, please redirect to [Yi-Demos repos](https://github.com/orgs/Yi-Demos/repositories) for my practice projects.
+#### If you are interested in my site projects or practices, please redirect to [Yi-Demos repos](https://github.com/orgs/Yi-Demos/repositories) for my practice projects.
